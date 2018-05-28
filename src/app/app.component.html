@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>
+    Calling contracts with web3 in Angular.
+  </h2>
+  <b>Message: {{message}}</b>
+  <div class="input-group">
+    <input type="text" class="form-control" [(ngModel)]="inputMessage" />
+    <button type="button" class="btn btn-primary" (click)="onClickSetBtn(inputMessage)">Set</button>
+  </div>
+
+
+  <div *ngIf="!!notice" class="alert alert-success">{{notice}}</div>
+</div>
