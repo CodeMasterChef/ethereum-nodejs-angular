@@ -13,10 +13,8 @@ Run web app with command:
 
 `npm start`
 
-Install Metamask Chrome extension and switch to Rinkeby"
-
+Install Metamask Chrome extension and switch to Rinkeby network:
 ![alt text](https://i.imgur.com/1KHovhC.gif)
-
 
 # Complie smart constract: 
 
