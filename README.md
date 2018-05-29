@@ -1,8 +1,8 @@
 # ethereum-nodejs-angular
 
-Communicate with smart contracts on the Ethereum blockchain with Angular 5 and Web3 (0.18.4).
+Communicate with smart contracts on the Ethereum blockchain with Angular 5 and Web3 (1.0.0-beta.26).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 # Installation:
 Install packages with command:
