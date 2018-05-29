@@ -4,6 +4,8 @@ Communicate with smart contracts on the Ethereum blockchain with Angular 5 and W
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
+![alt text](https://i.imgur.com/4CGmtbi.gif)
+
 # Installation:
 Install packages with command:
 
